@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+.venv/
+venv/
+.idea/
+.vscode/
